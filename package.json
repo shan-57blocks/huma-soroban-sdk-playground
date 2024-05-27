@@ -23,7 +23,7 @@
     "tx": "ts-node src/index.ts"
   },
   "dependencies": {
-    "@huma-shan/soroban-sdk": "^0.0.12",
+    "@huma-shan/soroban-sdk": "^0.0.13",
     "dotenv": "^8.2.0"
   },
   "devDependencies": {
