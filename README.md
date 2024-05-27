@@ -1,1 +1,1 @@
-# huma-soroban-sdk-playground
+# Huma Soroban Defender
